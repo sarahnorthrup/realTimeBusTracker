@@ -1,0 +1,23 @@
+body { 
+    margin: 0; 
+    padding: 10px; 
+    background-color: black;
+}
+#map { 
+    position:absolute; 
+    top: 0; 
+    bottom: 0; 
+    width: 75%; 
+    height: 75%;
+    border-width: 1px;
+    border-color: aqua;
+   vertical-align: middle;
+}
+#boston { 
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    width: 100%; 
+    padding: 10px;
+ 
+}
